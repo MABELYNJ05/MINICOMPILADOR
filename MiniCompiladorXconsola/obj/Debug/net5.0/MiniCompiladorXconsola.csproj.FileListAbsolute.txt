@@ -1,0 +1,16 @@
+C:\Users\mjber\source\repos\MiniCompiladorXconsola\bin\Debug\net5.0\MiniCompiladorXconsola.exe
+C:\Users\mjber\source\repos\MiniCompiladorXconsola\bin\Debug\net5.0\MiniCompiladorXconsola.deps.json
+C:\Users\mjber\source\repos\MiniCompiladorXconsola\bin\Debug\net5.0\MiniCompiladorXconsola.runtimeconfig.json
+C:\Users\mjber\source\repos\MiniCompiladorXconsola\bin\Debug\net5.0\MiniCompiladorXconsola.runtimeconfig.dev.json
+C:\Users\mjber\source\repos\MiniCompiladorXconsola\bin\Debug\net5.0\MiniCompiladorXconsola.dll
+C:\Users\mjber\source\repos\MiniCompiladorXconsola\bin\Debug\net5.0\ref\MiniCompiladorXconsola.dll
+C:\Users\mjber\source\repos\MiniCompiladorXconsola\bin\Debug\net5.0\MiniCompiladorXconsola.pdb
+C:\Users\mjber\source\repos\MiniCompiladorXconsola\obj\Debug\net5.0\MiniCompiladorXconsola.csproj.AssemblyReference.cache
+C:\Users\mjber\source\repos\MiniCompiladorXconsola\obj\Debug\net5.0\MiniCompiladorXconsola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mjber\source\repos\MiniCompiladorXconsola\obj\Debug\net5.0\MiniCompiladorXconsola.AssemblyInfoInputs.cache
+C:\Users\mjber\source\repos\MiniCompiladorXconsola\obj\Debug\net5.0\MiniCompiladorXconsola.AssemblyInfo.cs
+C:\Users\mjber\source\repos\MiniCompiladorXconsola\obj\Debug\net5.0\MiniCompiladorXconsola.csproj.CoreCompileInputs.cache
+C:\Users\mjber\source\repos\MiniCompiladorXconsola\obj\Debug\net5.0\MiniCompiladorXconsola.dll
+C:\Users\mjber\source\repos\MiniCompiladorXconsola\obj\Debug\net5.0\ref\MiniCompiladorXconsola.dll
+C:\Users\mjber\source\repos\MiniCompiladorXconsola\obj\Debug\net5.0\MiniCompiladorXconsola.pdb
+C:\Users\mjber\source\repos\MiniCompiladorXconsola\obj\Debug\net5.0\MiniCompiladorXconsola.genruntimeconfig.cache
