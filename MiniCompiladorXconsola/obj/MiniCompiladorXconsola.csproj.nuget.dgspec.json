@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mjber\\source\\repos\\MiniCompiladorXconsola\\MiniCompiladorXconsola.csproj": {}
+    "C:\\Users\\mjber\\Documents\\GitHub\\MINICOMPILADOR\\MiniCompiladorXconsola\\MiniCompiladorXconsola.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mjber\\source\\repos\\MiniCompiladorXconsola\\MiniCompiladorXconsola.csproj": {
+    "C:\\Users\\mjber\\Documents\\GitHub\\MINICOMPILADOR\\MiniCompiladorXconsola\\MiniCompiladorXconsola.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mjber\\source\\repos\\MiniCompiladorXconsola\\MiniCompiladorXconsola.csproj",
+        "projectUniqueName": "C:\\Users\\mjber\\Documents\\GitHub\\MINICOMPILADOR\\MiniCompiladorXconsola\\MiniCompiladorXconsola.csproj",
         "projectName": "MiniCompiladorXconsola",
-        "projectPath": "C:\\Users\\mjber\\source\\repos\\MiniCompiladorXconsola\\MiniCompiladorXconsola.csproj",
+        "projectPath": "C:\\Users\\mjber\\Documents\\GitHub\\MINICOMPILADOR\\MiniCompiladorXconsola\\MiniCompiladorXconsola.csproj",
         "packagesPath": "C:\\Users\\mjber\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mjber\\source\\repos\\MiniCompiladorXconsola\\obj\\",
+        "outputPath": "C:\\Users\\mjber\\Documents\\GitHub\\MINICOMPILADOR\\MiniCompiladorXconsola\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
